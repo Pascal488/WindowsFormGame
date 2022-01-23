@@ -25,6 +25,9 @@
 
   This is a game that measure your speed in typing and accuracy 
   
-  ![]()
+  ![](https://github.com/Pascal488/WindowsFormGame/blob/main/TypingSpeedScreenshot.jpg)
+  
+  
+  - [Download an exe file of a game here](https://drive.google.com/uc?export=download&id=1Agp1WB3F_9H4Z-8mDcAhb57TEnk5t9qO)
 
 

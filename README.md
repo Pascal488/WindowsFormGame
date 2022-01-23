@@ -17,7 +17,14 @@
 ## QUIZ GAME 
 
   This is a game containing simple questions of multiple choices
-![Take a look]()
+  
+![Take a look](https://github.com/Pascal488/WindowsFormGame/blob/main/QuizScreenshot.jpg)
 
+
+## TYPING SPEED GAME
+
+  This is a game that measure your speed in typing and accuracy 
+  
+  ![]()
 
 

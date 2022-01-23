@@ -17,7 +17,7 @@
 ## QUIZ GAME 
 
   This is a game containing simple questions of multiple choices
-
+![Take a look]()
 
 
 
